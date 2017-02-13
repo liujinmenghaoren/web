@@ -1,18 +1,18 @@
 # HTML and CSS
 HTML and CSS
 ## <img src="https://raw.githubusercontent.com/wangding/courses/master/images/video.png" height="30">课程视频
-|课程编号|课程名称|
-|:---:|:---:|
+|课程编号|课程名称|费用|
+|:---:|:---:|:---:|
 |主修课程| 
-|1|[HTML和CSS 6小时入门经典视频教程](http://edu.51cto.com/course/course_id-3116.html)(￥1)|
-|2|[HTML5和CSS3新特性视频教程](http://edu.51cto.com/course/course_id-3282.html)(￥1)|
+|1|[HTML和CSS 6小时入门经典视频教程](http://edu.51cto.com/course/course_id-3116.html)|￥1|
+|2|[HTML5和CSS3新特性视频教程](http://edu.51cto.com/course/course_id-3282.html)|￥1|
 |选修课程|
-|3|[HTML5基础视频课程 - 最实用的HTML教程](http://edu.51cto.com/course/course_id-4130.html)(free)|
-|4|[零基础学习HTML5—HTML+CSS基础视频教程](http://edu.51cto.com/course/course_id-6452.html)(free)|
-|5|[HTML5+CSS3快速入门实战视频课程](http://edu.51cto.com/course/course_id-5073.html)(free)|
-|6|[Web前端开发规范实战视频课程](http://edu.51cto.com/course/course_id-5277.html)(free)|
-|7|[HTML+CSS零基础入门教程(上)--HTML5+CSS3视频教程](http://edu.51cto.com/course/course_id-7170.html)(￥1)|
-|8|[HTML5视频教程系列之Javascript学习篇](http://edu.51cto.com/course/course_id-3127.html)(free)|
+|3|[HTML+CSS零基础入门教程(上)--HTML5+CSS3视频教程](http://edu.51cto.com/course/course_id-4130.html)|￥1|
+|4|[零基础学习HTML5—HTML+CSS基础视频教程](http://edu.51cto.com/course/course_id-6452.html)|free|
+|5|[HTML5+CSS3快速入门实战视频课程](http://edu.51cto.com/course/course_id-5073.html)|free|
+|6|[Web前端开发规范实战视频课程](http://edu.51cto.com/course/course_id-5277.html)|free|
+|7|[HTML5基础视频课程 - 最实用的HTML教程](http://edu.51cto.com/course/course_id-7170.html)|free|
+|8|[HTML5视频教程系列之Javascript学习篇](http://edu.51cto.com/course/course_id-3127.html)|free|
 
 
 ## <img src="https://raw.githubusercontent.com/wangding/courses/master/images/presentation.png" height="30">幻灯片
