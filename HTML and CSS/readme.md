@@ -1,5 +1,5 @@
 # HTML and CSS
-HTML and CSS
+
 ## <img src="https://raw.githubusercontent.com/wangding/courses/master/images/video.png" height="30">课程视频
 |课程编号|课程名称|费用|
 |:---:|:---:|:---:|
@@ -44,5 +44,12 @@ HTML and CSS
   
 - [Web前端工程师成长第一阶段（基础篇）](http://www.imooc.com/course/programdetail/pid/3)  
   这同样是慕课网上面的一个课程路径，个人认为这个路径更好学，层次比较分明。
+  
+- [前段开发者手册](http://wiki.jikexueyuan.com/project/fedHandlebook/)  
+  非常丰富的前段资料
+  
 - [CSS Dinner](http://flukeout.github.io/)  
   这是一个CSS闯关游戏，如果不明白游戏玩法，请参照[这里](http://www.shejidaren.com/css-diner.html)
+  
+- [CSS 布局](http://zh.learnlayout.com/)  
+  学习网页布局的闯关游戏教程
