@@ -31,7 +31,7 @@
 - [任务七](assign7.md)
 
 ## <img src="https://raw.githubusercontent.com/wangding/courses/master/images/code.png" height="30">示例代码
-- [demo](https://github.com/liujinmenghaoren/courses/tree/master/HTML%20and%20CSS/demo)
+- [demo](https://github.com/liujinmenghaoren/web/tree/master/HTML%20and%20CSS/demo)
 
 ## :hammer:工具下载
 - [HBuilder](http://www.dcloud.io/index.html)  

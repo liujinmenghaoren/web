@@ -24,4 +24,4 @@
 
 参考示例如下：
 - [lesson-2 的页面](demo/lesson-2)
-- [lesson-3 的页面](demo/lesson-3/home.html)
+- [lesson-3 的页面](https://liujinmenghaoren.github.io/web/HTML%20and%20CSS/demo/lesson-3/home.html)
