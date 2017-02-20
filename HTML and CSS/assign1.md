@@ -19,9 +19,9 @@
 
 要求如下：
 - 创建并完成第二课的文件夹 lesson-2；
-- 创建并完成第三课的文件夹 lesson-3；
-- 将成果放在自己的 GitHub 仓库中；
+- 创建并完成第三课的文件夹 lesson-3（在第11节课老师带操作）；
+- 将成果放在自己的 web 仓库中；
 
 参考示例如下：
 - [lesson-2 的页面](demo/lesson-2)
-- [lesson-3 的页面](https://liujinmenghaoren.github.io/web/HTML%20and%20CSS/demo/lesson-3/home.html)
+- [lesson-3 的页面](demo/lesson-3)
