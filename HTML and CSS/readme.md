@@ -8,11 +8,9 @@
 |2|[HTML5和CSS3新特性视频教程](http://edu.51cto.com/course/course_id-3282.html)|￥1|
 |选修课程|
 |3|[HTML+CSS零基础入门教程(上)--HTML5+CSS3视频教程](http://edu.51cto.com/course/course_id-4130.html)|￥1|
-|4|[零基础学习HTML5—HTML+CSS基础视频教程](http://edu.51cto.com/course/course_id-6452.html)|free|
-|5|[HTML5+CSS3快速入门实战视频课程](http://edu.51cto.com/course/course_id-5073.html)|free|
-|6|[Web前端开发规范实战视频课程](http://edu.51cto.com/course/course_id-5277.html)|free|
-|7|[HTML5基础视频课程 - 最实用的HTML教程](http://edu.51cto.com/course/course_id-7170.html)|free|
-|8|[HTML5视频教程系列之Javascript学习篇](http://edu.51cto.com/course/course_id-3127.html)|free|
+|4|[HTML5基础视频课程 - 最实用的HTML教程](http://edu.51cto.com/course/course_id-7170.html)|free|
+|5|[零基础学习HTML5—HTML+CSS基础视频教程](http://edu.51cto.com/course/course_id-6452.html)|free|
+|6|[HTML5视频教程系列之Javascript学习篇](http://edu.51cto.com/course/course_id-3127.html)|free|
 
 
 ## <img src="https://raw.githubusercontent.com/wangding/courses/master/images/presentation.png" height="30">幻灯片
