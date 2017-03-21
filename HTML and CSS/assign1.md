@@ -13,7 +13,7 @@
 要求如下：
 - 在51CTO学院搜索课程[HTML和CSS 6小时入门经典视频教程](http://edu.51cto.com/course/course_id-3116.html)，并收藏、购买课程；
 - 学习课程的 1———11 课时，即学习完第三课，其中讲工具下载安装请观看 HBuilder 的[教学视频](http://edu.51cto.com/course/course_id-8043.html)第二课——创作工具；
-- 在 GitHub 上 webHTML 仓库中用 .md 文件整理学习笔记，可见[示例](demo/note1.md)；
+- 在 GitHub 上 web-note 仓库中用 .md 文件整理学习笔记，可见[示例](demo/note1.md)；
 
 ## 任务3 制作网页
 
