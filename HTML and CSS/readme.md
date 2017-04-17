@@ -27,6 +27,8 @@
 - [任务五](assign5.md)
 - [任务六](assign6.md)
 - [任务七](assign7.md)
+- [任务八](assign8.md)
+- [任务九](assign9.md)
 
 ## <img src="https://raw.githubusercontent.com/wangding/courses/master/images/code.png" height="30">示例代码
 - [demo](https://github.com/liujinmenghaoren/web/tree/master/HTML%20and%20CSS/demo)
