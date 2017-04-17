@@ -3,7 +3,8 @@
 ## 任务1 学习课程视频
 
 要求如下：
-- 学习[HTML和CSS 6小时入门经典视频教程](http://edu.51cto.com/course/course_id-3116.html)课程的26—33课时，即学习完第十四课；
+- 学习[HTML和CSS 6小时入门经典视频教程](http://edu.51cto.com/course/course_id-3116.html)课程的28—37课时，即学习完第十六课；
+- 仔细阅读课本第八章内容；
 
 ## 任务2 整理笔记
 
