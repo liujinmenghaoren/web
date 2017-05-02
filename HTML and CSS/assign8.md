@@ -4,7 +4,7 @@
 
 要求如下：
 
-- 学习[HTML5和CSS3新特性视频教程](http://edu.51cto.com/course/course_id-3282.html)课程的24—33课时，即学习完第二十三课；
+- 学习[HTML5和CSS3新特性视频教程](http://edu.51cto.com/course/course_id-3282.html)课程的28——38课时，即学完全部课程；
 - 仔细阅读《管理信息系统》课本第十二章内容；
 
 ## 任务2 整理笔记
